@@ -30,3 +30,8 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+
+.mainCss{
+  padding-inline: 200px;
+}

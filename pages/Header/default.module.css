@@ -1,0 +1,29 @@
+.mainCss{
+    padding-inline: 10%;
+    padding-bottom: .4rem;
+    border-bottom: 2px solid #B7B7B7;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background-color: white;
+}
+.header{
+    
+}
+.imputDate{
+    border :1px solid grey;
+    border-radius: .3rem;
+    padding: .1rem .2rem;
+    cursor: pointer;
+}
+.selectBox{
+    border :1px solid grey;
+    border-radius: .3rem;
+    padding: .1rem .2rem;
+    cursor: pointer;
+}
+
+.mainBody{
+    padding-inline: 10%;
+
+}

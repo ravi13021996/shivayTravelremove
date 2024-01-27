@@ -1,0 +1,29 @@
+.mainCss {
+    padding-inline: 10%;
+
+}
+
+.vehicalMainDiv {
+    font-family: poppins;
+    padding: .5rem;
+    max-width: 20rem;
+    font-size: 1rem;
+}
+
+.bookBtn {
+    border-radius: .3rem;
+    outline: none;
+    border: none;
+    padding: 2px 8px;
+    background-color: #005F6C;
+    color: white;
+}
+.inputClass input:checked ~ .checkmark {
+    background-color: green;
+    color: red;
+  }
+
+  .custom-checkbox{
+    width: 2rem;
+    background-color: red;
+  }  
